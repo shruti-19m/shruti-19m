@@ -37,7 +37,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 
 ### 🚀 **Currently Exploring**  
-- **Full-Stack Web Development** (MERN, Java-based frameworks)  
+- **Full-Stack Web Development** (MERN, Java-based framework)  
 - **App Development** (Dart/Flutter, Android Development)
 - **java Development** (Udemy Course)
 - **Data Structures and Algorithms** (Geeks for Geeks Self-Paced)
