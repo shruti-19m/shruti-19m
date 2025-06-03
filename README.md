@@ -1,15 +1,25 @@
-<h1 align="center">Hi 👋, I'm Shruti</h1>
-<h3 align="center">A passionate developer and continuous learner</h3>
+<h1 align="center">Hi 👋, I'm Shruti Mandal</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Java Enthusiast | DSA Explorer</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 👩‍💻 Currently focused on **Web Development** and **DSA**
-- 🌱 Learning: `Node.js`, `MongoDB`, `Express.js`, `React.js`
-- 🤝 Open to collaboration on open-source and hackathon projects
-- 📫 Reach me at: [shruti@example.com](mailto:shruti@example.com)
-- 🧠 Fun fact: I believe *building in public* accelerates learning!
+- 🎓 Pursuing B.Tech in Electronics and Communication Engineering (Graduating in 2028)
+- 💻 Passionate about building impactful web applications
+- 🌱 Currently learning: `Node.js`, `Express.js`, `MongoDB`, `React.js`
+- 🧠 Exploring Data Structures and Algorithms to enhance problem-solving skills
+- 🤝 Open to collaborating on open-source projects and hackathons
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Frontend:** React.js, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
@@ -29,7 +39,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/shruti-19m" target="_blank">
+  <a href="https://linkedin.com/in/shruti-mandal-529881368" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shruti@example.com" target="_blank">
