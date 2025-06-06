@@ -13,15 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-- **Languages:** Java, JavaScript, HTML, CSS
-- **Frontend:** React.js, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, VS Code
-
----
 
 ## 📈 GitHub Stats
 
